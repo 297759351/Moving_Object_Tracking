@@ -1,0 +1,2 @@
+# Moving_Object_Tracking
+使用背景建模法和ECO进行目标跟踪
